@@ -103,3 +103,9 @@ C:\Users\leegodden\Source\Repos\EMS\obj\Debug\EMS.csproj.CoreCompileInputs.cache
 C:\Users\leegodden\Source\Repos\EMS\obj\Debug\EMS.csproj.CopyComplete
 C:\Users\leegodden\Source\Repos\EMS\obj\Debug\EMS.dll
 C:\Users\leegodden\Source\Repos\EMS\obj\Debug\EMS.pdb
+C:\Users\leegodden\Source\Repos\EMS\bin\EMS.Data.dll
+C:\Users\leegodden\Source\Repos\EMS\bin\EMS.Entites.dll
+C:\Users\leegodden\Source\Repos\EMS\bin\EMS.Data.pdb
+C:\Users\leegodden\Source\Repos\EMS\bin\EMS.Data.dll.config
+C:\Users\leegodden\Source\Repos\EMS\bin\EMS.Entites.pdb
+C:\Users\leegodden\Source\Repos\EMS\bin\EMS.Entites.dll.config

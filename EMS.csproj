@@ -252,6 +252,16 @@
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.3.1.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\EMS.Data\EMS.Data.csproj">
+      <Project>{D7EF467E-EB40-4E7C-B815-A42EF4CD0791}</Project>
+      <Name>EMS.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\EMS.Entites\EMS.Entites.csproj">
+      <Project>{11BBC91A-00D0-4441-A6C8-C0D65601F376}</Project>
+      <Name>EMS.Entites</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
